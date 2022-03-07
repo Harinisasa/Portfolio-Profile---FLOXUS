@@ -1,5 +1,5 @@
-# Portfolio-Profile
-meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
 <div class="resume-wrapper">
 	<section class="profile section-padding">
 		<div class="container">
