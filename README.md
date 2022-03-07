@@ -1,15 +1,6 @@
 
 
-<div class="resume-wrapper">
-	<section class="profile section-padding">
-		<div class="container">
-			<div class="picture-resume-wrapper">
-        <div class="picture-resume">
-        <span><img src="https://s3.amazonaws.com/uifaces/faces/twitter/jsa/128.jpg" alt="" /></span>
-</svg-->
-      </div>
-         <div class="clearfix"></div>
- </div>
+
       <div class="name-wrapper">
         <h1> HARINI M M</h1><!-- YOUR NAME AND LAST NAME  -->
       </div>
